@@ -19,7 +19,6 @@ public class DayData
     {
         return Score;
     }
-    
     public void CalculateScore()
     {
         foreach (var checkIn in CheckIns.Where(checkIn => checkIn.OnTime))

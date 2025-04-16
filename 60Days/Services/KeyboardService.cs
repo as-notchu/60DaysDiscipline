@@ -1,6 +1,6 @@
 namespace _60Days.Services;
 
-public class TelegramService
+public class KeyboardService
 {
     
 }
